@@ -11,7 +11,7 @@ Jogos e scripts feitos com **Python**, com código simples e comentado em portug
 
 ## Scripts em Python puro
 
-[**scripts-python/**](scripts-python/): três programas de terminal usando só o básico da linguagem e módulos nativos. Também estão no repositório [Desafios-Dev](https://github.com/darkslipx/Desafios-Dev).
+[**scripts-python/**](scripts-python/): três programas de terminal usando só o básico da linguagem e módulos nativos. Também estão no repositório [Desafios-Dev](https://github.com/Abner-Duarte/Desafios-Dev).
 
 | Script | O que faz |
 |---|---|
